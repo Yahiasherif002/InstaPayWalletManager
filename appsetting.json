@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "server =.; database = DigitalCurrency; integrated security = SSPI; TrustServerCertificate = True;"
+  }
+}
